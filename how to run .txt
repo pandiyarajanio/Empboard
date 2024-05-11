@@ -1,0 +1,16 @@
+open one terminal for react and run npm run dev
+open another one terminal for json server and type npm run json
+and routes are 
+/new-emp
+/employees
+/emp/edit/1
+/emp/edit/2
+/emp/edit/3
+/emp/edit/4
+check the json file in the Emplist.json for id ( id is random so )
+
+
+ admin@admin.com
+ password admin123
+
+ 

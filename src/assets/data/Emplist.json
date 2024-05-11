@@ -1,0 +1,44 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "mobile_no": "123-456-7890",
+      "designation": "Software Engineer",
+      "gender": "Male",
+      "course": "Computer Science",
+      "img_file": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "mobile_no": "987-654-3210",
+      "designation": "Web Developer",
+      "gender": "Female",
+      "course": "Information Technology",
+      "img_file": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "mobile_no": "555-123-4567",
+      "designation": "UI/UX Designer",
+      "gender": "Female",
+      "course": "Graphic Design",
+      "img_file": "https://via.placeholder.com/150"
+    },
+    {
+      "id": "4",
+      "name": "wq",
+      "email": "efwqe@gmail.com",
+      "mobile_no": "123454234`",
+      "designation": "sadfv",
+      "gender": "male",
+      "course": "asdf",
+      "img_file": {}
+    }
+  ]
+}
